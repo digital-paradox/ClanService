@@ -1,0 +1,22 @@
+{
+  "name": "clanservice",
+  "version": "0.1.0",
+  "description": "A service ROBLOX clans can utilize.",
+  "main": "src/index",
+  "scripts": {
+    "test": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-paradox/ClanService.git"
+  },
+  "keywords": [
+    "ROBLOX"
+  ],
+  "author": "Robert (Robert#4597)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digital-paradox/ClanService/issues"
+  },
+  "homepage": "https://github.com/digital-paradox/ClanService#readme"
+}
